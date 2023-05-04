@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Kurov Dmitry Alexandrovichah
-=======
-Kurov Dmitry Alexandrov
->>>>>>> newdev
+
